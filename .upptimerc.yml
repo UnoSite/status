@@ -13,7 +13,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://unosite.dk/storage/app/media/theme/logo.png
   favicon: https://unosite.dk/storage/app/media/theme/icon.png
-  name: UnoSite Status
+  name: Status
   theme: dark
   scripts:
     - src: https://embeds.iubenda.com/widgets/906105f7-cd70-4dbd-aeb9-1e0d82ee4c67.js
