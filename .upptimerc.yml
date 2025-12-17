@@ -12,6 +12,7 @@ status-website:
   cname: status.unosite.dk
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  favicon: https://example.com/favicon.png
   name: UnoSite Status
   theme: dark
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
