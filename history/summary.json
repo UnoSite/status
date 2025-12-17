@@ -4,17 +4,19 @@
     "url": "https://unosite.dk",
     "icon": "https://icons.duckduckgo.com/ip3/unosite.dk.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 796,
-    "timeWeek": 796,
-    "timeMonth": 796,
-    "timeYear": 796,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "93.20%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "93.20%",
+    "uptimeMonth": "93.20%",
+    "uptimeYear": "93.20%",
+    "time": 829,
+    "timeDay": 829,
+    "timeWeek": 829,
+    "timeMonth": 829,
+    "timeYear": 829,
+    "dailyMinutesDown": {
+      "2025-12-17": 12
+    }
   }
 ]
