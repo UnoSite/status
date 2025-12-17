@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.unosite.dk
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  favicon: https://example.com/favicon.png
+  logoUrl: https://unosite.dk/storage/app/media/theme/logo.png
+  favicon: https://unosite.dk/storage/app/media/theme/icon.png
   name: UnoSite Status
   theme: dark
   scripts:
