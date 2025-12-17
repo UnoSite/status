@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unosite.dk.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "96.46%",
-    "uptimeDay": "96.46%",
-    "uptimeWeek": "96.46%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "96.46%",
-    "time": 874,
-    "timeDay": 874,
-    "timeWeek": 874,
-    "timeMonth": 874,
-    "timeYear": 874,
+    "uptime": "95.24%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "95.24%",
+    "uptimeMonth": "95.24%",
+    "uptimeYear": "95.24%",
+    "time": 866,
+    "timeDay": 866,
+    "timeWeek": 866,
+    "timeMonth": 866,
+    "timeYear": 866,
     "dailyMinutesDown": {
-      "2025-12-17": 12
+      "2025-12-17": 16
     }
   }
 ]
