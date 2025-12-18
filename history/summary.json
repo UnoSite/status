@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unosite.dk.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "82.89%",
-    "uptimeDay": "82.89%",
-    "uptimeWeek": "82.89%",
-    "uptimeMonth": "82.89%",
-    "uptimeYear": "82.89%",
-    "time": 822,
-    "timeDay": 822,
-    "timeWeek": 822,
-    "timeMonth": 822,
-    "timeYear": 822,
+    "uptime": "29.03%",
+    "uptimeDay": "29.03%",
+    "uptimeWeek": "29.03%",
+    "uptimeMonth": "29.03%",
+    "uptimeYear": "29.03%",
+    "time": 782,
+    "timeDay": 782,
+    "timeWeek": 782,
+    "timeMonth": 782,
+    "timeYear": 782,
     "dailyMinutesDown": {
-      "2025-12-18": 8,
+      "2025-12-18": 878,
       "2025-12-17": 73
     }
   },
@@ -31,13 +31,33 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 536,
-    "timeDay": 536,
-    "timeWeek": 536,
-    "timeMonth": 536,
-    "timeYear": 536,
+    "time": 303,
+    "timeDay": 303,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2025-12-18": 5
+      "2025-12-18": 875
+    }
+  },
+  {
+    "name": "Login",
+    "url": "https://unosite.dk/login",
+    "icon": "https://icons.duckduckgo.com/ip3/unosite.dk.ico",
+    "slug": "login",
+    "status": "down",
+    "uptime": "19.94%",
+    "uptimeDay": "19.94%",
+    "uptimeWeek": "19.94%",
+    "uptimeMonth": "19.94%",
+    "uptimeYear": "19.94%",
+    "time": 72,
+    "timeDay": 72,
+    "timeWeek": 72,
+    "timeMonth": 72,
+    "timeYear": 72,
+    "dailyMinutesDown": {
+      "2025-12-18": 0
     }
   }
 ]
