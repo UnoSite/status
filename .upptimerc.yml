@@ -9,6 +9,12 @@ sites:
     location: Denmark
   - name: Registration
     url: https://unosite.dk/signup
+    type: globalping
+    location: Denmark
+  - name: Login
+    url: https://unosite.dk/login
+    type: globalping
+    location: Denmark
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
