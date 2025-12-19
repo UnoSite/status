@@ -10,13 +10,13 @@
     "uptimeWeek": "14.07%",
     "uptimeMonth": "14.07%",
     "uptimeYear": "14.07%",
-    "time": 723,
-    "timeDay": 126,
-    "timeWeek": 723,
-    "timeMonth": 723,
-    "timeYear": 723,
+    "time": 699,
+    "timeDay": 148,
+    "timeWeek": 699,
+    "timeMonth": 699,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2025-12-19": 860,
+      "2025-12-19": 861,
       "2025-12-18": 1440,
       "2025-12-17": 73
     }
@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unosite.dk.ico",
     "slug": "registration-allowed",
     "status": "down",
-    "uptime": "12.80%",
-    "uptimeDay": "12.80%",
-    "uptimeWeek": "12.80%",
-    "uptimeMonth": "12.80%",
-    "uptimeYear": "12.80%",
-    "time": 69,
-    "timeDay": 69,
-    "timeWeek": 69,
-    "timeMonth": 69,
-    "timeYear": 69,
+    "uptime": "2.97%",
+    "uptimeDay": "2.97%",
+    "uptimeWeek": "2.97%",
+    "uptimeMonth": "2.97%",
+    "uptimeYear": "2.97%",
+    "time": 76,
+    "timeDay": 76,
+    "timeWeek": 76,
+    "timeMonth": 76,
+    "timeYear": 76,
     "dailyMinutesDown": {
-      "2025-12-19": 0
+      "2025-12-19": 1
     }
   },
   {
@@ -52,13 +52,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 67,
-    "timeDay": 67,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "time": 70,
+    "timeDay": 70,
+    "timeWeek": 70,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {
-      "2025-12-19": 860,
+      "2025-12-19": 861,
       "2025-12-18": 562
     }
   }
