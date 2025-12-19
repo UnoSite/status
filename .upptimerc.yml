@@ -12,7 +12,7 @@ sites:
     type: globalping
     location: Denmark
   - name: Login
-    url: https://unosite.dk/login
+    url: https://unosite.dk/api/user/login/possible
     type: globalping
     location: Denmark
 
