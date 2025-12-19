@@ -32,8 +32,6 @@ status-website:
   navbar:
     - title: Website
       href: https://unosite.dk
-    - title: Status
-      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
