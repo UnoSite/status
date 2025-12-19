@@ -7,7 +7,7 @@ sites:
     url: https://unosite.dk
     type: globalping
     location: Denmark
-  - name: Registration allowed
+  - name: Registration
     url: https://unosite.dk/api/user/regitration/allowed
     type: globalping
     location: Denmark
