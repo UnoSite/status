@@ -8,11 +8,11 @@ sites:
     type: globalping
     location: Denmark
   - name: Registration
-    url: https://unosite.dk/api/user/regitration/allowed
+    url: $API_REGITRATION_ALLOWED
     type: globalping
     location: Denmark
   - name: Login
-    url: https://unosite.dk/api/user/login/possible
+    url: $API_LOGIN_POSSIBLE
     type: globalping
     location: Denmark
 
