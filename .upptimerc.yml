@@ -21,12 +21,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.unosite.dk
   # baseUrl: /your-repo-name
-  logoUrl: https://unosite.dk/storage/app/media/theme/icon.png
-  favicon: https://unosite.dk/storage/app/media/theme/icon.png
+  logoUrl: https://unosite.dk/themes/unosite-ui/assets/img/icon.webp
+  favicon: https://unosite.dk/themes/unosite-ui/assets/img/icon.webp
   name: UnoSite Status
   theme: dark
-  scripts:
-    - src: https://embeds.iubenda.com/widgets/906105f7-cd70-4dbd-aeb9-1e0d82ee4c67.js
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -35,7 +33,16 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-delay: 2000 # 2 seconds
+delay: 5000 # 2 seconds
 user-agent: UnoSite
 i18n:
   footer: ""
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/15 * * * *"
